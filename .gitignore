@@ -1,0 +1,13 @@
+*.bak
+*.tar.gz
+*.backup*
+cache/*
+logs/*
+.DS_Store
+.user.ini
+.htaccess
+*.backup
+*.bak.*
+index.php.bak*
+index.html.bak*
+

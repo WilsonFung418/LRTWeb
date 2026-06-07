@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>1.1.1.1</string>
+					</array>
+					<key>ServerName</key>
+					<string>Wilson AdguardHome</string>
+					<key>ServerURL</key>
+					<string>https://adguardhome.w-solutionshk.xyz/dns-query</string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>DNS Settings #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.7a00d521-6fc5-4729-8af7-d95a7dd336c5</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>5d3917e5-7ee9-414a-9e26-fbfc9ea9c0e0</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerAddresses</key>
+					<array>
+						<string>1.1.1.2</string>
+					</array>
+					<key>ServerName</key>
+					<string>cloudflare</string>
+					<key>ServerURL</key>
+					<string>https://security.cloudflare-dns.com/dns-query</string>
+				</dict>
+				<key>PayloadDisplayName</key>
+				<string>DNS Settings #2</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.8dd8733f-5ac6-46ac-8688-908eed3a6e2e</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>906a9f25-0ef2-44bf-bd21-de178ad411e2</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>EncryptionType</key>
+				<string>WPA2</string>
+				<key>Password</key>
+				<string>1020304050</string>
+				<key>PayloadDisplayName</key>
+				<string>Wi-Fi #1</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.wifi.managed.7f941a13-be17-432f-9103-a3b150885b97</string>
+				<key>PayloadType</key>
+				<string>com.apple.wifi.managed</string>
+				<key>PayloadUUID</key>
+				<string>8843ed24-ffca-4fb0-bca7-e63559288ff4</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>SSID_STR</key>
+				<string>Fung Home</string>
+			</dict>
+		</array>
+		<key>PayloadDisplayName</key>
+		<string>Wilson Home DNS DOH</string>
+		<key>PayloadIdentifier</key>
+		<string>DESKTOP-NPLC2M2.3de5e562-decb-440d-9627-f3a5779df305</string>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>5087eb8d-bfbf-45fd-a7f9-5ea7460e9d2a</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
