@@ -1,4 +1,0 @@
-[2026-04-12 07:55:07] cURL Failed for station 220: Resolving timed out after 5000 milliseconds
-[2026-04-12 10:05:49] cURL Failed for station 295: Resolving timed out after 5000 milliseconds
-[2026-04-12 10:05:49] cURL Failed for station 295: Failed to connect to rt.data.gov.hk port 443 after 4999 ms: Connection timed out
-[2026-04-12 10:05:49] cURL Failed for station 295: Resolving timed out after 5000 milliseconds
