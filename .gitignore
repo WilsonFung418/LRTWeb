@@ -11,3 +11,5 @@ logs/*
 index.php.bak*
 index.html.bak*
 
+.well-known/
+uat/.well-known/
